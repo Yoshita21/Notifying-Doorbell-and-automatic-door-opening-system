@@ -1,2 +1,3 @@
 # Notifying-Doorbell-and-automatic-door-opening-system
-IOT project
+ # ABOUT
+Notifying doorbell and automatic door opening system is a home automation based project that can be used in residential places to make their life better and easier. In the traditional houses or flats the electric lock or the manual lock was used .Our project uses a lock which can be controlled using your mobile phone within a range of 10-50m and also notifies you when the doorbell is rung. The main idea of the project is to adopt the modern technologies in the regular lifestyle. We need not move from the place where we are sitting to open the door now. And as an addition  we even know that someone is at the door just by looking at our mobile .We even need not worry when we forget our keys. This smart doorbell project is really useful for people who love technology and  modernness in their life.
